@@ -5,4 +5,9 @@ line added in github.com
 
 something crazy
 
+<<<<<<< HEAD
 The moons made wolfman double evolve, causing him to explode. Rest in pieces
+=======
+
+HAHAHAHAHA!
+>>>>>>> 937730356480117b93b010eba61fd58881ad7cb3
