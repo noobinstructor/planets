@@ -2,5 +2,9 @@ Cold and dry, but everything is my favourit color
 The two moons may be a problem for Wolfman
 
 line added in github.com
+<<<<<<< HEAD
 
 Jbjorgan added this line.
+=======
+something crazy
+>>>>>>> bb0f2fe5dfedbc8f174c7111320dd9f77bfcb0f1
