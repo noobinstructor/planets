@@ -1,10 +1,22 @@
-Cold and dry, but everything is my favourit color
+another change from Dracula changes_by_Dracula Cold and dry, but everything is my favourit color
 The two moons may be a problem for Wolfman
 
 line added in github.com
+<<<<<<< HEAD
 <<<<<<< HEAD
 
 Jbjorgan added this line.
 =======
 something crazy
 >>>>>>> bb0f2fe5dfedbc8f174c7111320dd9f77bfcb0f1
+=======
+
+something crazy
+
+<<<<<<< HEAD
+The moons made wolfman double evolve, causing him to explode. Rest in pieces
+=======
+
+HAHAHAHAHA!
+>>>>>>> 937730356480117b93b010eba61fd58881ad7cb3
+>>>>>>> ef1561d7f0cdd346053c56a764c0380568f5d4f7
